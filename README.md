@@ -5,7 +5,7 @@ Please note that below is the official list of information about Node & Validato
 
 
 Telegram: http://t.me/Edsny
-Github: https://github.com/Edsny1VN
+Github: https://github.com/Edsny1
 
 My Server:
 Contabo
