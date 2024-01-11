@@ -1,10 +1,39 @@
-- 👋 Hi, I’m OshVanK
-- 👀 I’m Blockchain technology enthusiast...
-- 🌱 Getting involved in projects with testnets,
-- 🌱 Assisting in project development,
-- 🌱 I like to do it both as a hobby and to learn....
+Hi there 👋
+Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2021, Support the growth of Web3 and the Proof-of-Stake ecosystem with our non-custodial staking services.
 
-<!---
-Edsny1/Edsny1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Please note that below is the official list of information about Node & Validator:
+
+
+Telegram: http://t.me/Edsny
+Github: https://github.com/Edsny1VN
+
+My Server:
+Contabo
+Hetzner
+Validator mainnet:
+
+MASSA Chanin : 
+
+Validator testnet:
+
+Celestia
+Dymension
+Aptos
+Sui network
+Massa
+Okp4
+Nulink
+Nibiru
+Subspace
+Meson Network
+Althea
+Namada
+Pryzm
+Pactus
+Babylon
+Kyve
+Minima
+Bitcountry
+Manta
+Quicksilver
+Empower
