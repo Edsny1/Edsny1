@@ -11,6 +11,10 @@ Github: https://github.com/Edsny1
 My Server:
 > Contabo
 > Hetzner
+> Google Cloud
+> Kamatera
+> Digital Ocean
+> Local Service Provider: Poyraz Hosting
 
 Validator mainnet:
 
