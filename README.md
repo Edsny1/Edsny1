@@ -1,3 +1,9 @@
+
+![IMG_20240111_162424](https://github.com/Edsny1/Edsny1/assets/98622870/276b7703-4601-4799-9e4f-e27849be39f2)
+
+
+
+
 Hi there 👋
 Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider since 2021, Support the growth of Web3 and the Proof-of-Stake ecosystem with our non-custodial staking services.
 
