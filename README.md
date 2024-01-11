@@ -5,35 +5,57 @@ Please note that below is the official list of information about Node & Validato
 
 
 Telegram: http://t.me/Edsny
+
 Github: https://github.com/Edsny1
 
 My Server:
-Contabo
-Hetzner
+> Contabo
+> Hetzner
+
 Validator mainnet:
 
-MASSA Chanin : 
+> MASSA Chanin : 
 
 Validator testnet:
 
-Celestia
-Dymension
-Aptos
-Sui network
-Massa
-Okp4
-Nulink
-Nibiru
-Subspace
-Meson Network
-Althea
-Namada
-Pryzm
-Pactus
-Babylon
-Kyve
-Minima
-Bitcountry
-Manta
-Quicksilver
-Empower
+> Celestia
+
+> Dymension
+ 
+> Aptos
+
+> Sui network
+
+> Massa
+
+> Okp4
+
+> Nulink
+
+> Nibiru
+
+> Subspace
+
+> Meson Network
+
+> Althea
+
+> Namada
+
+> Pryzm
+
+> Pactus
+
+> Babylon
+
+> Kyve
+
+> Minima
+
+> Bitcountry
+
+> Manta
+
+> Quicksilver
+
+> Empower
