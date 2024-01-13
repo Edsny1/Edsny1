@@ -29,7 +29,7 @@ My Server:
 
 Validator mainnet:
 
-> MASSA Chanin : 
+> MASSA Chanin : https://massexplo.io/address/AU12MxzWTaqXJ4qdNgRALfRi5RqxL4oaUQMe4zBvpF94DEoX1CiMU
 
 Validator testnet:
 
