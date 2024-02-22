@@ -30,7 +30,9 @@ My Server:
 Validator mainnet:
 
 > MASSA Chanin : https://massexplo.io/address/AU12MxzWTaqXJ4qdNgRALfRi5RqxL4oaUQMe4zBvpF94DEoX1CiMU
+
 > Pactus       : https://pactus.org
+
                : https://pacscan.org/address/pc1pwu0stm8mzqlafcnx2vwf66ucu5ud2rcazsa47n/
 
 Validator testnet:
