@@ -77,5 +77,11 @@ Validator testnet:
 
 > Empower
 
+> Tangle
+
+> Cess
+
+> Dusk
+
 
 
