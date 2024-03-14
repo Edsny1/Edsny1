@@ -83,5 +83,7 @@ Validator testnet:
 
 > Dusk
 
+> Ritual
+
 
 
