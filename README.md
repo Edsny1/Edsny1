@@ -33,6 +33,8 @@ Validator mainnet:
 
 > Pactus       : https://pactus.org     https://pacscan.org/address/pc1pwu0stm8mzqlafcnx2vwf66ucu5ud2rcazsa47n/
 
+> Humanode     : https://humanode.subscan.io/account/hmqtAkrqNuTFTN8yrf35D9eH5qLotWnMCDXK39DjDHt4YSxHB
+
 Validator testnet:
 
 > Celestia
