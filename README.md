@@ -34,6 +34,8 @@ Validator mainnet:
 > Pactus       : https://pactus.org     https://pacviewer.com/accounts/pc1pwu0stm8mzqlafcnx2vwf66ucu5ud2rcazsa47n
 
 > Humanode     : https://humanode.subscan.io/account/hmqtAkrqNuTFTN8yrf35D9eH5qLotWnMCDXK39DjDHt4YSxHB
+>
+> Tangle       : https://polkadot.js.org/apps/?rpc=wss://rpc.tangle.tools#/staking  ( tgGVPfoLtjQ33M3m9vrvZPgdnoDNdXH8xZQwQG2rWwMfR3mnL )
 
 Validator testnet:
 
@@ -87,5 +89,9 @@ Validator testnet:
 
 > Ritual
 
-
+> Ar-io
+>
+> 0G
+>
+> Warden
 
