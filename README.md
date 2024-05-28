@@ -35,7 +35,7 @@ Validator mainnet:
 
 > Humanode     : https://humanode.subscan.io/account/hmqtAkrqNuTFTN8yrf35D9eH5qLotWnMCDXK39DjDHt4YSxHB
 >
-> Tangle       : https://polkadot.js.org/apps/?rpc=wss://rpc.tangle.tools#/staking  ( tgGVPfoLtjQ33M3m9vrvZPgdnoDNdXH8xZQwQG2rWwMfR3mnL )
+> 
 
 Validator testnet:
 
