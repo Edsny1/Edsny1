@@ -13,6 +13,10 @@ Telegram: http://t.me/Edsny
 
 Github: https://github.com/Edsny1
 
+Web: https://oshvank.com/
+
+Explorer: https://explorer.oshvank.xyz/
+
 My Server:
 > Contabo
 
@@ -33,7 +37,8 @@ Validator mainnet:
 > Pactus       : https://pactus.org     https://pacviewer.com/accounts/pc1pwu0stm8mzqlafcnx2vwf66ucu5ud2rcazsa47n
 
 > Humanode     : https://humanode.subscan.io/account/hmqtAkrqNuTFTN8yrf35D9eH5qLotWnMCDXK39DjDHt4YSxHB
->
+
+> Dymension    : https://explorer.oshvank.xyz/dymension/staking/dymvaloper1t5wx9muv04ctd2xcmx870yfkpn0nszfqxr70tj
 > 
 
 Validator testnet:
