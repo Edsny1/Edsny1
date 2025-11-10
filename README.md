@@ -13,7 +13,7 @@ Telegram: http://t.me/Edsny
 
 Github: https://github.com/Edsny1
 
-Web: https://oshvank.com/
+Web: https://oshvank.xyz/
 
 Explorer: https://explorer.oshvank.xyz/
 
