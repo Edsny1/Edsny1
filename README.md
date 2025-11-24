@@ -39,7 +39,12 @@ Validator mainnet:
 > Humanode     : https://humanode.subscan.io/account/hmqtAkrqNuTFTN8yrf35D9eH5qLotWnMCDXK39DjDHt4YSxHB
 
 > Dymension    : https://explorer.oshvank.xyz/dymension/staking/dymvaloper1t5wx9muv04ctd2xcmx870yfkpn0nszfqxr70tj
-> 
+
+> AtomOne      : https://explorer.oshvank.xyz/AtomOne/staking/atonevaloper186av4ahtc685uarfqnuzp3683y9vypuz8fzn69
+
+> BitBadges    : https://explorer.oshvank.xyz/BitBadges%20Mainnet/staking/bbvaloper1tq6e25mee67d6rkv2zwc4apxps3y3jfvgsy6ew
+
+> ZenRock      : https://explorer.oshvank.xyz/Zenrock-Mainnet/staking/zenvaloper1dy4g088um2uapxwp4lku6fjgprxucxfgnuaquc
 
 Validator testnet:
 
