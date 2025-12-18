@@ -46,6 +46,8 @@ Validator mainnet:
 
 > ZenRock      : https://explorer.oshvank.xyz/Zenrock-Mainnet/staking/zenvaloper1dy4g088um2uapxwp4lku6fjgprxucxfgnuaquc
 
+> Arkhadian    : https://explorer.oshvank.xyz/Arkhadian/staking/arkhvaloper1q7vdutgfamze84fks9pjc94z68khspum65zmry
+
 Validator testnet:
 
 > Celestia
